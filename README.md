@@ -11,4 +11,3 @@ This is a sample DevOps project demonstrating Git best practices with proper bra
 1. Clone repo
 2. Create feature branch
 3. Submit PRs via GitHub
-   
